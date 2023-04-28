@@ -1,0 +1,19 @@
+#results {
+    display:none;
+}
+
+h1 {
+  font-size: 2em;
+  
+  color: rgb(241, 238, 238);
+  background-color: rgb(46, 114, 216);
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+body {
+    background-image: url("https://live.staticflickr.com/4153/5025601209_3df1028ed6_b.jpg");
+    background-color: #cccc;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
